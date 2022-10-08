@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.23"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "hotnode": "^0.0.8",
+    "express": "^4.17.1",
+    "hotnode": "0.0.8",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0",
+    "redis": "^3.1.2",
+    "sequelize": "^6.6.5"
+  }
+}
