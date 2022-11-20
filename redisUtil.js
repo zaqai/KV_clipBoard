@@ -65,10 +65,11 @@ const getHValue = (key) => {
         })
     })
 }
+
 // 导出
 module.exports = {
     setValue,
     incrValue,
     getValue,
-    getHValue
+    getHValue,
 }
